@@ -2,6 +2,11 @@
 
 This project is a simple microservice for uploading files and receiving their metadata as a response. It uses Node.js, Express, and Multer for handling file uploads.
 
+### [File Metadata Microservice - Live Demo](https://filemetadata-xvwy.onrender.com/)
+
+> [!NOTE]  
+>   If the page does not load, you may have to wait about 30-50 seconds if the page does not load (due to the hosting service).
+
 ## Features
 
 - Upload any file using a simple web form.
